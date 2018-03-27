@@ -1,0 +1,30 @@
+{
+  "name": "merkle-tree-article",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starspire/merkle-tree-article.git"
+  },
+  "author": "Krzysztof Wędrowicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starspire/merkle-tree-article/issues"
+  },
+  "homepage": "https://github.com/starspire/merkle-tree-article#readme",
+  "dependencies": {
+    "truffle": "^4.1.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "ethereumjs-util": "^5.1.5"
+  }
+}
